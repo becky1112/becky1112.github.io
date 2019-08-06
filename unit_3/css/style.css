@@ -1,0 +1,9 @@
+body {
+	 background: url ("file:///C:/Users/rowen/Documents/GitHub/becky1112.github.io/unit_3/images/out_background.jpg.jpg");
+    background-size: cover;
+    text-align: left;
+}
+
+h1, p {
+    color: black;
+}
