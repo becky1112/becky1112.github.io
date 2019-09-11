@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: Goudy;
+    color: black;
+    text-decoration: none;
+}
+
+h1 h2 h3{ 
+  font-family: Goudy;
+ }
+
+p { 
+  font-family: 'Sorts Mill Goudy';
+ }
+
+a:link, a:visited {
+  background-color: #d30d1d;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
