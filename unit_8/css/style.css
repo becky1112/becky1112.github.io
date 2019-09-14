@@ -29,6 +29,14 @@ body {
   margin:10px 0 20px;
 }
 
+.container_button {
+    top: 40%;
+    left: 8%;
+  font-size:1em;
+  margin:10px 0 20px;
+
+}
+
 a {
     background-color: #d30d1d;
     border: 0;
