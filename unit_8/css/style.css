@@ -105,16 +105,6 @@ li{
 	float:right;
 }
 
-footer { 
-	height: 50px;
-  position: absolute;
-  left: 0;
-  right: 0;
-  width: 100%;
-  color: black;
-  text-align: center;
-}
-
 header {
     padding: 20px;
 }
@@ -131,6 +121,13 @@ footer {
     padding: 20px;
 	color: black;
 	    font-family: 'Montserrat', sans-serif;
+		height: 50px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
 }
 
 section {
