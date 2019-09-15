@@ -14,9 +14,13 @@ body {
   text-align: center;
 }
 
-.butterfly { 
-	  opacity: 0.5;
-  filter: alpha(opacity=50); /* For IE8 and earlier */
+.container img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
 }
 
 .top-left {
