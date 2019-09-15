@@ -12,11 +12,8 @@ body {
 .container {
   position: relative;
   text-align: center;
-}
-
-.Butterfly { 
-	  opacity: 0.5;
-  filter: alpha(opacity=50); /* For IE8 and earlier */ 
+		  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
 .top-left {
