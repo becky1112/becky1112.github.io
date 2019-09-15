@@ -68,10 +68,10 @@ footer {
     background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
-	  display: block;
-  position: fixed;
-  color: black;
-  text-align: center;
+    display: block;
+    position: fixed;
+    color: black;
+    text-align: center;
 }
 
 section {
