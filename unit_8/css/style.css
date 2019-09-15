@@ -37,6 +37,11 @@ body {
 
 }
 
+.container img {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
 a {
     background-color: #d30d1d;
     border: 0;
