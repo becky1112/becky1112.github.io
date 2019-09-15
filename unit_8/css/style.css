@@ -129,6 +129,13 @@ section {
     width: 30%;
   }
 
+#middle {
+        padding: 20px;
+    float: center;
+    width: 30%;
+  }
+    
+
   #right {
     padding: 20px;
     float: right;   
