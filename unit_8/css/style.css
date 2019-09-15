@@ -25,16 +25,13 @@ body {
   position: absolute;
   bottom: 70%;
   left: 8%;
-  font-size:1.5em;
   margin:10px 0 20px;
 }
 
 .container_button {
-    bottom: 40%;
+    bottom: 60%;
     left: 8%;
   font-size:1em;
-  margin:10px 0 20px;
-
 }
 
 .container img {
