@@ -2,13 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
-body {
-  text-align: left;
-  font-family: Goudy;
-  color: black;
-  text-decoration: none;
-}
-
 
 .container {
   position: relative;
@@ -17,53 +10,27 @@ body {
 
 .top-left {
   position: absolute;
-  top: 15%;
+  top: 20%;
   left: 8%;
   font-size:2.1em;
   margin:10px 0 20px;
 }
+
 .bottom-left {
   position: absolute;
-  bottom: 70%;
+  bottom: 50%;
   left: 8%;
+  font-size:1em;
   margin:10px 0 20px;
 }
 
-.container_button {
-  bottom: 60%;
-  left: 8%;
-  font-size:1em;
-}
-
 .container img {
-  opacity: 0.5;
-  filter: alpha(opacity=50); /* For IE8 and earlier */
+  opacity: 0.9;
 }
 
-a {
-  background-color:#d30d1e;
-  -moz-border-radius:28px;
-  -webkit-border-radius:28px;
-  border-radius:28px;
-  border:1px solid #d30d1e;
-  display:inline-block;
-  cursor:pointer;
-  color:#ffffff;
-  font-family:Arial;
-  font-size:17px;
-  padding:16px 31px;
-  text-decoration:none;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  font-size: 1em;
-}
 
 h1 h2{ 
   font-family: 'Sorts Mill Goudy';
- }
-
-h3{ 
-  font-family: 'Montserrat', sans-serif;
  }
 
 p { 
@@ -76,21 +43,178 @@ ul {
   padding: 0;
   font-family: 'Montserrat', sans-serif;
   font-size: .5em;
+  float:right;
 }
 
-li{
+a.home {
   display: inline;
   padding: 16px;
-  font-size: 1.75em;
+  font-size: 17px;
   text-align: right;
-  float:right;
+  float:left;
+  color: black;
+}
+
+a.reports {
+  display: inline;
+  padding: 16px;
+  font-size: 17px;
+  text-align: right;
+  float:left;
+  color: black;
+}
+
+a.about {
+  display: inline;
+  padding: 16px;
+  font-size: 17px;
+  text-align: right;
+  float:left;
+  color: black;
+}
+
+a.contact {
+  display: inline;
+  padding: 16px;
+  font-size: 17px;
+  text-align: right;
+  float:left;
+  color: black;
+}
+
+a.week {
+  background-color:#d30d1e;
+  -moz-border-radius:28px;
+  -webkit-border-radius:28px;
+  border-radius:28px;
+  border:1px solid #d30d1e;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+
+a.rev {
+  background-color:#d30d1e;
+  -moz-border-radius:28px;
+  -webkit-border-radius:28px;
+  border-radius:28px;
+  border:1px solid #d30d1e;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+
+a.wrap {
+  background-color:#d30d1e;
+  -moz-border-radius:28px;
+  -webkit-border-radius:28px;
+  border-radius:28px;
+  border:1px solid #d30d1e;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+
+a.twitter {
+  background-color:#d30d1e;
+  -moz-border-radius:28px;
+  -webkit-border-radius:28px;
+  border-radius:28px;
+  border:1px solid #d30d1e;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+
+a.email {
+  background-color:#d30d1e;
+  -moz-border-radius:28px;
+  -webkit-border-radius:28px;
+  border-radius:28px;
+  border:1px solid #d30d1e;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+
+a.club {
+  background-color:#d30d1e;
+  -moz-border-radius:28px;
+  -webkit-border-radius:28px;
+  border-radius:28px;
+  border:1px solid #d30d1e;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+
+a.contactme {
+  display: inline;
+  padding: 16px;
+  font-size: 17px;
+  text-align: right;
+  float:center;
+  color: black;
+  text-decoration: underline;
+  font-family: 'Sorts Mill Goudy';
+}
+
+li {
+  display: inline;
+  padding: 16px;
+  font-size: 17px;
+  text-align: right;
+  float:left;
+  color: black;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
 }
 
 header {
   padding: 20px;
 }
 
-.nav {
+#nav {
   padding: 20px;
   text-decoration:none;
   text-align: right;
@@ -144,21 +268,21 @@ section {
 }
 
 #two_column { 
-    padding: 20px 400px 20px 400px;  
+    padding: 20px 400px 20px 400px; 
   }
 
   #left2 { 
     float: left;
-    width: 40%;
+    width: 30%;
     text-align: center;
-    padding: 50px;
+    padding: 20px;
   }
     
 
   #right2 {
-    padding: 50px;
+    padding: 20px;
     float: right;   
-    width: 40%;
+    width: 30%;
     text-align: center;
 }
 
@@ -171,63 +295,3 @@ section {
     height: 0;
 }
 
-@media (max-width: 800px) {
-  
-  nav {
-    float: none;
-  }
-
-  nav a {
-    margin: 0 1.6em .75em 0;
-  }
-
-    nav {
-    float: none;
-  } 
-  nav {
-    float: none;
-  }
-  nav a {
-      margin: 0 1.6em .75em 0;
-
-      img { 
-  width: 230px;
-  }
-
-}
-
-@media (max-width: 480px) {
-  h1, nav {
-    display: block;
-    text-align: center;
-  }
-    nav a {
-    margin: 0 1em 1em;
-  }
-    img { 
-  width: 230px;
-  }
-    section, div {
-    width: 100%;
-    padding: .6em;
-  }
-     h2 {
-    font-size: 1em;
-    display: inline;
-  }
-    p, ul {
-    margin: 1.8em .6em 0;
-  }
-    li {
-    width: 80%;
-    outline-width: .5em;
-    padding: .5em;
-  }
-    li {
-    width: 80%;
-    outline-width: .5em;
-    padding: .5em;
-    height: 2em;
-    line-height: 2em;
-  }
-}
