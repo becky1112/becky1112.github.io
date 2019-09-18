@@ -13,7 +13,7 @@
   top: 20%;
   left: 8%;
   font-size:2.1em;
-  margin:10px 0 20px;
+  margin:0.7% 0 1.5%;
 }
 
 .bottom-left {
@@ -21,7 +21,7 @@
   bottom: 50%;
   left: 8%;
   font-size:1em;
-  margin:10px 0 20px;
+  margin:0.7% 0 1.5%;
 }
 
 .container img {
@@ -48,8 +48,8 @@ ul {
 
 a.home {
   display: inline;
-  padding: 16px;
-  font-size: 17px;
+  padding: 1.25%;
+  font-size: 2em;
   text-align: right;
   float:left;
   color: black;
@@ -57,8 +57,8 @@ a.home {
 
 a.reports {
   display: inline;
-  padding: 16px;
-  font-size: 17px;
+  padding: 1.25%;
+  font-size: 2em;
   text-align: right;
   float:left;
   color: black;
@@ -66,8 +66,8 @@ a.reports {
 
 a.about {
   display: inline;
-  padding: 16px;
-  font-size: 17px;
+  padding: 1.25%;
+  font-size: 2em;
   text-align: right;
   float:left;
   color: black;
@@ -75,8 +75,8 @@ a.about {
 
 a.contact {
   display: inline;
-  padding: 16px;
-  font-size: 17px;
+  padding: 1.25%;
+  font-size: 2em;
   text-align: right;
   float:left;
   color: black;
@@ -84,110 +84,104 @@ a.contact {
 
 a.week {
   background-color:#d30d1e;
-  -moz-border-radius:28px;
-  -webkit-border-radius:28px;
+  -moz-border-radius:2.18%;
+  -webkit-border-radius:2.18%;
   border-radius:28px;
-  border:1px solid #d30d1e;
+  border:0.07% solid #d30d1e;
   display:inline-block;
   cursor:pointer;
   color:#ffffff;
-  font-size:17px;
+  font-size:1em;
   padding:16px 31px;
   text-decoration:none;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  font-size: 1em;
 }
 
 a.rev {
   background-color:#d30d1e;
-  -moz-border-radius:28px;
-  -webkit-border-radius:28px;
+  -moz-border-radius:2.18%;
+  -webkit-border-radius:2.18%;
   border-radius:28px;
-  border:1px solid #d30d1e;
+  border:0.07% solid #d30d1e;
   display:inline-block;
   cursor:pointer;
   color:#ffffff;
-  font-size:17px;
+  font-size:1em;
   padding:16px 31px;
   text-decoration:none;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  font-size: 1em;
 }
 
 a.wrap {
   background-color:#d30d1e;
-  -moz-border-radius:28px;
-  -webkit-border-radius:28px;
+  -moz-border-radius:2.18%;
+  -webkit-border-radius:2.18%;
   border-radius:28px;
-  border:1px solid #d30d1e;
+  border:0.07% solid #d30d1e;
   display:inline-block;
   cursor:pointer;
   color:#ffffff;
-  font-size:17px;
+  font-size:1em;
   padding:16px 31px;
   text-decoration:none;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  font-size: 1em;
 }
 
 a.twitter {
   background-color:#d30d1e;
-  -moz-border-radius:28px;
-  -webkit-border-radius:28px;
+  -moz-border-radius:2.18%;
+  -webkit-border-radius:2.18%;
   border-radius:28px;
-  border:1px solid #d30d1e;
+  border:0.07% solid #d30d1e;
   display:inline-block;
   cursor:pointer;
   color:#ffffff;
-  font-size:17px;
+  font-size:1em;
   padding:16px 31px;
   text-decoration:none;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  font-size: 1em;
 }
 
 a.email {
   background-color:#d30d1e;
-  -moz-border-radius:28px;
-  -webkit-border-radius:28px;
+  -moz-border-radius:2.18%;
+  -webkit-border-radius:2.18%;
   border-radius:28px;
-  border:1px solid #d30d1e;
+  border:0.07% solid #d30d1e;
   display:inline-block;
   cursor:pointer;
   color:#ffffff;
-  font-size:17px;
+  font-size:1em;
   padding:16px 31px;
   text-decoration:none;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  font-size: 1em;
 }
 
 a.club {
   background-color:#d30d1e;
-  -moz-border-radius:28px;
-  -webkit-border-radius:28px;
+  -moz-border-radius:2.18%;
+  -webkit-border-radius:2.18%;
   border-radius:28px;
-  border:1px solid #d30d1e;
+  border:0.07% solid #d30d1e;
   display:inline-block;
   cursor:pointer;
   color:#ffffff;
-  font-size:17px;
+  font-size:1em;
   padding:16px 31px;
   text-decoration:none;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  font-size: 1em;
 }
 
 a.contactme {
   display: inline;
-  padding: 16px;
-  font-size: 17px;
+  padding: 1.25%;
+  font-size: 1em;
   text-align: right;
   float:center;
   color: black;
@@ -198,7 +192,7 @@ a.contactme {
 li {
   display: inline;
   padding: 16px;
-  font-size: 17px;
+  font-size: 1em;
   text-align: right;
   float:left;
   color: black;
@@ -211,21 +205,21 @@ li a {
 }
 
 header {
-  padding: 20px;
+  padding: 1.5%;
 }
 
 #nav {
-  padding: 20px;
+  padding: 1.5%;
   text-decoration:none;
   text-align: right;
 }
 
 article {
-  padding: 20px;
+  padding: 1.5%;
 }
 
 footer {
-  padding: 20px;
+  padding: 1.5%;
   color: black;
   font-family: 'Montserrat', sans-serif;
   height: 50px;
@@ -238,22 +232,22 @@ footer {
 }
 
 section {
-    padding: 20px;
+    padding: 1.5%;
 }
 
 #three_column { 
-    padding: 20px;  
+    padding: 1.5%;  
   }
 
   #left { 
-    padding: 20px;
+    padding: 1.5%;
     float: left;
     width: 30%;
     text-align: center;
   }
 
     #middle { 
-    padding: 20px;
+    padding: 1.5%;
     float: left;
     width: 30%;
     text-align: center;
@@ -261,7 +255,7 @@ section {
     
 
   #right {
-    padding: 20px;
+    padding: 1.5%;
     float: right;   
     width: 30%;
     text-align: center;
@@ -275,12 +269,12 @@ section {
     float: left;
     width: 30%;
     text-align: center;
-    padding: 20px;
+    padding: 1.5%;
   }
     
 
   #right2 {
-    padding: 20px;
+    padding: 1.5%;
     float: right;   
     width: 30%;
     text-align: center;
@@ -293,5 +287,79 @@ section {
     content: " ";
     clear: both;
     height: 0;
+}
+
+@media (max-width: 1392px) {
+  
+  nav {
+    float: none;
+  }
+
+  nav a {
+    margin: 0 1.6em .75em 0;
+  }
+}
+
+
+
+@media (max-width: 800px) {
+  
+  nav {
+    float: none;
+  }
+
+  nav a {
+    margin: 0 1.6em .75em 0;
+  }
+
+    nav {
+    float: none;
+  } 
+  nav {
+    float: none;
+  }
+  nav a {
+      margin: 0 1.6em .75em 0;
+
+      img { 
+  width: 230px;
+  }
+
+}
+
+@media (max-width: 480px) {
+  h1, nav {
+    display: block;
+    text-align: center;
+  }
+    nav a {
+    margin: 0 1em 1em;
+  }
+    img { 
+  width: 230px;
+  }
+    section, div {
+    width: 100%;
+    padding: .6em;
+  }
+     h2 {
+    font-size: 1em;
+    display: inline;
+  }
+    p, ul {
+    margin: 1.8em .6em 0;
+  }
+    li {
+    width: 80%;
+    outline-width: .5em;
+    padding: .5em;
+  }
+    li {
+    width: 80%;
+    outline-width: .5em;
+    padding: .5em;
+    height: 2em;
+    line-height: 2em;
+  }
 }
 
