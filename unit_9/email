@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ELK</title>
+</head>
+
+<body style="background-color:#ffffff;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;">
+  <table style="background-color:#ffffff;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;min-width:320px;" > 
+    <tr>
+      <th align="left" style="font-size: 2em;">ELK Web Design</th>
+      <td>
+      <table cellspacing="0" align="center" border="0">
+        <tr>
+   <td><a href="#" style="text-decoration: none; color: black;">work</a></td>
+   <td><a href="#" style="text-decoration: none; color: black;">about</a></td>
+   <td><a href="#" style="text-decoration: none; color: black;">contact</a></td>
+</tr>
+      </table>
+      </td>
+    </tr>
+    <tr>
+  <td colspan="2" align="center" style="background: #fffebb;">
+    <img src="http://i.imgur.com/pdsjjxD.jpg" style="width: 400px;" alt="learn more!">
+  </td>
+    </tr>
+    <tr>
+<td style="background: #222222; color: white; padding: 1em;" width="50%" valign="top">
+        <h2 style="color: #fffebb; text-transform: uppercase; border-bottom: 4px solid #fffebb; display: inline-block;">who we are</h2>
+        <p>ELK provides clean and innovative sites for small businesses, artists, and professionals.</p>
+      </td>
+<td style="background: #222222; color: white; padding: 1em;" width="50%" valign="top">
+        <h2 style="color: #fffebb; text-transform: uppercase; border-bottom: 4px solid #fffebb; display: inline-block;">who we are</h2>
+        <table align="center" border="1">
+          <tr>
+            <td>HTML</td>
+            <td>CSS</td>
+          </tr>
+          <tr>
+            <td>Responsive</td>
+            <td>Visual Design</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">© 2015</td>
+    </tr>
+  </table>
+</body>
+
+</html>
